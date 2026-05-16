@@ -18,7 +18,7 @@ export default defineConfig({
 
   preview: {
     allowedHosts: [
-      "vertexflow-production.up.railway.app"
+      "https://vertexflow-production.up.railway.app"
     ]
   }
 });
