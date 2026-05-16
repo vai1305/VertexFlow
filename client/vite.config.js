@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     port: 5173,
     proxy: {
-      "/api": "https://vertexflow.onrender.com"
+      "/api": "vertexflow-production-a336.up.railway.app"
     }
   }
 });
